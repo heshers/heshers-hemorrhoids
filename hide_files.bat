@@ -124,14 +124,14 @@ goto :eof
 	echo.
 	echo hesheshesheshesheshesheshesheshesheshesheshesheshesheshesheshesh
 	echo h                                                              h
-	echo h               Files failed to be hidden inside               h
-	echo h                 target picture successfully.                 h
+	echo e               Files failed to be hidden inside               e
+	echo s                 target picture successfully.                 s
 	echo h                                                              h
-	echo h       * Did you make sure the extension was correct?         h
-	echo h       * Did you check to make sure BOTH files are inside     h
+	echo e       * Did you make sure the extension was correct?         e
+	echo s       * Did you check to make sure BOTH files are inside     s
 	echo h         the FFC folder?                                      h
-	echo h       * Perhaps the compressed file is a different format?   h
-	echo h                                                              h
+	echo e       * Perhaps the compressed file is a different format?   e
+	echo s                                                              s
 	echo h                                                              h
 	echo hesheshesheshesheshesheshesheshesheshesheshesheshesheshesheshesh
 	echo.
