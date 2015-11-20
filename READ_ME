@@ -1,0 +1,6 @@
+Hiding files in pictures (all you have to type is the file, no path. It reads directly from the folder.)
+1) Place your target picture, as well as your target folder and place it in the FFC folder.
+2) Right click on the target folder and click "Add to" then "Add to %folder%.7z".
+3) Run hide_files.bat as Admin.
+4) Choose the "Hide a file inside a picture" option.
+5) Follow accordingly.
